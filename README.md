@@ -1,1 +1,1 @@
-# spring-cloud-lab
+# spring cloud config
